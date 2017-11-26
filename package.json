@@ -1,0 +1,19 @@
+{
+  "name": "Koa-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "koa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-generic-session": "^1.11.5",
+    "koa-redis": "^3.0.0",
+    "ramda": "^0.24.1",
+    "redis": "^2.7.1"
+  }
+}
